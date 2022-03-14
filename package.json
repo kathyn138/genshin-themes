@@ -1,0 +1,21 @@
+{
+    "name": "genshin-vsc-themes",
+    "displayName": "genshin vsc themes",
+    "description": "a",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "genshin vsc themes",
+                "uiTheme": "vs",
+                "path": "./themes/genshin vsc themes-color-theme.json"
+            }
+        ]
+    }
+}
